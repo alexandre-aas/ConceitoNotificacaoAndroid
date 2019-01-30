@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConceitoNotificacaoAndroid</string>
+    <string name="enviar_mensagem">Enviar Mensagem</string>
+    <string name="resultado_activity">Resultado Activity</string>
+    <string name="enviar_notificao">Enviar Notificação</string>
+</resources>
